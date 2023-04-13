@@ -1,0 +1,46 @@
+.mainHeader {
+    align-items: center;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    border-bottom: 0.5px solid;
+    // background-color: rgb(204 204 255);
+
+    .mainHeaderContent{
+        margin: 0 40px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .LinkGroup{
+        display: flex;
+        gap: 200px;
+    }
+}
+
+.Link{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0, 29, 55);
+    
+    &:hover{
+        color: rgb(11, 0, 52);
+    }
+}
+
+
+.LinkAlbero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2em;
+}
+
+.LinkSocial{
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}

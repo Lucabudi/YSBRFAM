@@ -1,0 +1,41 @@
+.Eventipage{
+    margin-top: 20px;
+}
+
+.HomePage{
+    padding: 100px 0px;
+
+    h1{
+        font-size: 10vw;
+        text-align: center; 
+        margin: 0;
+    }
+
+    .firstBlock{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        border-top: 0.5px solid;
+        border-bottom: 0.5px solid;
+        
+        h2{
+            margin: 0 0 50px 0;
+        }
+    }
+
+    .secondBlock{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+
+    .contentBlock{
+        padding: 40px 40px 20px 40px;
+        height: auto;
+        border-right: 0.5px solid;
+
+        p{
+            margin-top: 30px;
+        }
+    }
+}
+
