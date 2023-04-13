@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lucabudi/YSBRFAM.git/static/css/main.3ca2d922.css",
+    "main.js": "/Lucabudi/YSBRFAM.git/static/js/main.9dc3abff.js",
+    "static/js/787.5dd38593.chunk.js": "/Lucabudi/YSBRFAM.git/static/js/787.5dd38593.chunk.js",
+    "index.html": "/Lucabudi/YSBRFAM.git/index.html",
+    "main.3ca2d922.css.map": "/Lucabudi/YSBRFAM.git/static/css/main.3ca2d922.css.map",
+    "main.9dc3abff.js.map": "/Lucabudi/YSBRFAM.git/static/js/main.9dc3abff.js.map",
+    "787.5dd38593.chunk.js.map": "/Lucabudi/YSBRFAM.git/static/js/787.5dd38593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ca2d922.css",
+    "static/js/main.9dc3abff.js"
+  ]
+}
