@@ -23,7 +23,7 @@ const Home = () => {
         <div className={style.contentBlock}>
               <h2>WILD LIFE</h2>
               <img width={80} alt='party' src='/images/abstract.png' />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo omnis facere corporis libero doloremque, fugit dolore. Possimus, porro modi dignissimos veniam, debitis accusamus commodi nulla laudantium explicabo quo ipsum impedit.</p>
+              <p>Loresm, ipsum dolor sit amet consectetur adipisicing elit. Illo omnis facere corporis libero doloremque, fugit dolore. Possimus, porro modi dignissimos veniam, debitis accusamus commodi nulla laudantium explicabo quo ipsum impedit.</p>
               <div style={{ float: 'right'}}>+</div>
         </div>
         <div className={style.contentBlock}>
